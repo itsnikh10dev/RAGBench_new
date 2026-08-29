@@ -129,7 +129,7 @@ used.
 
 ## Using the app
 
-![RAGBench UI — sidebar with a processed index, a question asked, and a Markdown-rendered answer with retrieved sources](docs/project_working.png)
+![RAGBench UI — sidebar with a processed index, a question asked, and a Markdown-rendered answer with retrieved sources](RAGBench_project/docs/project_working.png)
 
 1. **Documents** sidebar → drop or browse one or more PDF files.
 2. Click **Process Documents**. This uploads the files, extracts text with

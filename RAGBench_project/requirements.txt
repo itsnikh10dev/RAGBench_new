@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+PyPDF2
+langchain-core
+langchain-text-splitters
+langchain-google-genai
+langchain-community
+faiss-cpu
